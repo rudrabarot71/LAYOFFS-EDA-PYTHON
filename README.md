@@ -88,12 +88,10 @@ to better assess organisational stability.
 
 ## Tools & Technologies
 
-## Tools & Technologies
-
 - **Python**
 - **Pandas**
 - **Matplotlib & Seaborn**
-- **Jupyter Notebook**
+
 
 ---
 
