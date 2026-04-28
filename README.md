@@ -35,17 +35,20 @@ relationship with the scale of job cuts.
 ## Key Findings
 
 **Finding 1 - Retail and Consumer sectors bore the heaviest burden**
+
 Retail recorded the highest total layoffs of any industry at 70,157, followed 
 closely by Consumer at 67,675, together accounting for the two hardest-hit 
 sectors. Both industries expanded aggressively during the pandemic boom and 
 contracted sharply when consumer spending normalised.
 
 **Finding 2 - 2023 was the peak layoff year, with 263,180 job cuts**
+
 Layoffs grew 16x from 2021 (15,823) to their 2023 peak (263,180), a dramatic mass 
 correction after pandemic-era overhiring. 2024 shows early signs of stabilisation 
 at 90,916.
 
 **Finding 3 - Post-IPO companies averaged 623 layoffs, 12x more than Seed stage**
+
 With an average of 623 layoffs per company, Post-IPO firms cut workforces at 
 dramatically higher rates than early-stage startups like Seed (49 average). 
 Public market pressure and shareholder scrutiny, not company size alone, appears 
